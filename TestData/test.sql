@@ -1,0 +1,5 @@
+INSERT INTO mydb.person values(1,'Aaa','Bbb')
+INSERT INTO mydb.person values(2,'Baa','Cbb')
+INSERT INTO mydb.person values(3,'Daa','Ebb')
+INSERT INTO mydb.person values(4,'Faa','Gbb')
+INSERT INTO mydb.person values(5,'Haa','Ibb')

@@ -1,0 +1,24 @@
+1703234523193	geckodriver	INFO	Listening on 127.0.0.1:63709
+1703234523669	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qw/nptt7np13qq23tj4nk35w03r0000gn/T/rust_mozprofileXAXj1T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703234524074	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1703234524290	Marionette	INFO	Listening on port 63735
+WebDriver BiDi listening on ws://127.0.0.1:63710
+Read port: 63735
+1703234524481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63710/devtools/browser/6196b82f-403f-4347-8984-5f381948a5c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 1434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703234529860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:145,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.49985031891096554%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:145,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.49985031891096554%22}:13:3137
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:145,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.49985031891096554%22}:13:3642
+
+1703234530534	Marionette	INFO	Stopped listening on port 63735
+JavaScript warning: https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js, line 1226: Script terminated by timeout at:
+onError@https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js:1226:1955
+

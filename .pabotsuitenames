@@ -1,0 +1,19 @@
+datasources:581a5352d43d3a58fc53008fcbc62f0b9e9f132a
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:e247e81cf6eae7acab31f5b10a0e3ea2750d0159
+--suite TestCases.Test1 Text&Button
+--suite TestCases.Test10 DDT Excel
+--suite TestCases.Test11 DBTesting
+--suite TestCases.Test12 SetupTearDown
+--suite TestCases.Test13 GroupingTestsUsingTags
+--suite TestCases.Test14 POM LoginTest
+--suite TestCases.Test15 RegistrationTest
+--suite TestCases.Test2 DropDown
+--suite TestCases.Test3 CheckboxRadioDropDown
+--suite TestCases.Test4 UserKeywords
+--suite TestCases.Test5 ScrollingPage
+--suite TestCases.Test6 ForLoop
+--suite TestCases.Test7 CountExtractLinks
+--suite TestCases.Test8 WebTables
+--suite TestCases.Test9 DDT Script
