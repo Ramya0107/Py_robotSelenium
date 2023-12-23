@@ -1,6 +1,6 @@
 ## ROBOT FRAMEWORK, 
 #### Web Elements
-#### Data Driver Test(DDT)
+#### Data Driven Test(DDT)
 #### DB Testing
 #### Page Object Model(POM) Pattern
 
